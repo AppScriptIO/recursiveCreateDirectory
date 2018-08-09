@@ -1,0 +1,6 @@
+{
+    "name": "@dependency/recursiveCreateDirectory",
+    "main": "./source/entrypoint.js",
+    "version": "1.0.0"
+  }
+  
